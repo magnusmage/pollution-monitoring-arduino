@@ -27,4 +27,10 @@ Their are two sketch files in this repository one contains the code for saving d
 
 **The formula for calculating the ppm values might be invalid. I'm sorry for that as my field is CS :grin:**
 
+Alot of help was taken from the web so i cant list all of them but the libraries used are listed below.
 
+[GeorgeK](https://github.com/GeorgK/MQ135)
+
+[JChristensen](https://github.com/JChristensen/Timer)
+
+[mikalhart](https://github.com/mikalhart/TinyGPSPlus)
