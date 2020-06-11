@@ -1,5 +1,4 @@
-# Arduino_Air_Pollution_Monitoring_Device
-
+# IOT Based Environmental Pollution Measurement
 ## Overview
 This sketch contains the code for enabling the arduino mega to gather the air pollution
 data from the environment, tag the data with GPS cordinates,timestamp. Save the incoming data into the SD card attached and at the
